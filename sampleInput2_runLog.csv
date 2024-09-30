@@ -1,0 +1,2555 @@
+Process set:
+ID, Arrival, Duration, [||, IOReq ID, IOReq Time, IOReq Dur]*
+0, 1, 100
+
+=========,=========,=========,=========
+
+
+=========,=========,=========,=========,
+
+Time Step:, 1
+Step Action:,AdmitNew
+
+Running process:
+NONE
+
+Ready List (ID's):
+0, 
+
+Blocked List (ID's):
+
+
+Other Processes:
+ID,State
+
+Interrupt List:
+proc ID, IOReq ID
+
+IOModule Pending Interrupts:
+time to issue, procID, IOReq ID
+
+
+=========,=========,=========,=========,
+
+Time Step:, 2
+Step Action:,StartProcess
+
+Running process:
+ID:,0
+Time:,0,/,100
+
+Ready List (ID's):
+
+
+Blocked List (ID's):
+
+
+Other Processes:
+ID,State
+
+Interrupt List:
+proc ID, IOReq ID
+
+IOModule Pending Interrupts:
+time to issue, procID, IOReq ID
+
+
+=========,=========,=========,=========,
+
+Time Step:, 3
+Step Action:,ContProcess
+
+Running process:
+ID:,0
+Time:,1,/,100
+
+Ready List (ID's):
+
+
+Blocked List (ID's):
+
+
+Other Processes:
+ID,State
+
+Interrupt List:
+proc ID, IOReq ID
+
+IOModule Pending Interrupts:
+time to issue, procID, IOReq ID
+
+
+=========,=========,=========,=========,
+
+Time Step:, 4
+Step Action:,ContProcess
+
+Running process:
+ID:,0
+Time:,2,/,100
+
+Ready List (ID's):
+
+
+Blocked List (ID's):
+
+
+Other Processes:
+ID,State
+
+Interrupt List:
+proc ID, IOReq ID
+
+IOModule Pending Interrupts:
+time to issue, procID, IOReq ID
+
+
+=========,=========,=========,=========,
+
+Time Step:, 5
+Step Action:,ContProcess
+
+Running process:
+ID:,0
+Time:,3,/,100
+
+Ready List (ID's):
+
+
+Blocked List (ID's):
+
+
+Other Processes:
+ID,State
+
+Interrupt List:
+proc ID, IOReq ID
+
+IOModule Pending Interrupts:
+time to issue, procID, IOReq ID
+
+
+=========,=========,=========,=========,
+
+Time Step:, 6
+Step Action:,ContProcess
+
+Running process:
+ID:,0
+Time:,4,/,100
+
+Ready List (ID's):
+
+
+Blocked List (ID's):
+
+
+Other Processes:
+ID,State
+
+Interrupt List:
+proc ID, IOReq ID
+
+IOModule Pending Interrupts:
+time to issue, procID, IOReq ID
+
+
+=========,=========,=========,=========,
+
+Time Step:, 7
+Step Action:,ContProcess
+
+Running process:
+ID:,0
+Time:,5,/,100
+
+Ready List (ID's):
+
+
+Blocked List (ID's):
+
+
+Other Processes:
+ID,State
+
+Interrupt List:
+proc ID, IOReq ID
+
+IOModule Pending Interrupts:
+time to issue, procID, IOReq ID
+
+
+=========,=========,=========,=========,
+
+Time Step:, 8
+Step Action:,ContProcess
+
+Running process:
+ID:,0
+Time:,6,/,100
+
+Ready List (ID's):
+
+
+Blocked List (ID's):
+
+
+Other Processes:
+ID,State
+
+Interrupt List:
+proc ID, IOReq ID
+
+IOModule Pending Interrupts:
+time to issue, procID, IOReq ID
+
+
+=========,=========,=========,=========,
+
+Time Step:, 9
+Step Action:,ContProcess
+
+Running process:
+ID:,0
+Time:,7,/,100
+
+Ready List (ID's):
+
+
+Blocked List (ID's):
+
+
+Other Processes:
+ID,State
+
+Interrupt List:
+proc ID, IOReq ID
+
+IOModule Pending Interrupts:
+time to issue, procID, IOReq ID
+
+
+=========,=========,=========,=========,
+
+Time Step:, 10
+Step Action:,ContProcess
+
+Running process:
+ID:,0
+Time:,8,/,100
+
+Ready List (ID's):
+
+
+Blocked List (ID's):
+
+
+Other Processes:
+ID,State
+
+Interrupt List:
+proc ID, IOReq ID
+
+IOModule Pending Interrupts:
+time to issue, procID, IOReq ID
+
+
+=========,=========,=========,=========,
+
+Time Step:, 11
+Step Action:,ContProcess
+
+Running process:
+ID:,0
+Time:,9,/,100
+
+Ready List (ID's):
+
+
+Blocked List (ID's):
+
+
+Other Processes:
+ID,State
+
+Interrupt List:
+proc ID, IOReq ID
+
+IOModule Pending Interrupts:
+time to issue, procID, IOReq ID
+
+
+=========,=========,=========,=========,
+
+Time Step:, 12
+Step Action:,ContProcess
+
+Running process:
+ID:,0
+Time:,10,/,100
+
+Ready List (ID's):
+
+
+Blocked List (ID's):
+
+
+Other Processes:
+ID,State
+
+Interrupt List:
+proc ID, IOReq ID
+
+IOModule Pending Interrupts:
+time to issue, procID, IOReq ID
+
+
+=========,=========,=========,=========,
+
+Time Step:, 13
+Step Action:,ContProcess
+
+Running process:
+ID:,0
+Time:,11,/,100
+
+Ready List (ID's):
+
+
+Blocked List (ID's):
+
+
+Other Processes:
+ID,State
+
+Interrupt List:
+proc ID, IOReq ID
+
+IOModule Pending Interrupts:
+time to issue, procID, IOReq ID
+
+
+=========,=========,=========,=========,
+
+Time Step:, 14
+Step Action:,ContProcess
+
+Running process:
+ID:,0
+Time:,12,/,100
+
+Ready List (ID's):
+
+
+Blocked List (ID's):
+
+
+Other Processes:
+ID,State
+
+Interrupt List:
+proc ID, IOReq ID
+
+IOModule Pending Interrupts:
+time to issue, procID, IOReq ID
+
+
+=========,=========,=========,=========,
+
+Time Step:, 15
+Step Action:,ContProcess
+
+Running process:
+ID:,0
+Time:,13,/,100
+
+Ready List (ID's):
+
+
+Blocked List (ID's):
+
+
+Other Processes:
+ID,State
+
+Interrupt List:
+proc ID, IOReq ID
+
+IOModule Pending Interrupts:
+time to issue, procID, IOReq ID
+
+
+=========,=========,=========,=========,
+
+Time Step:, 16
+Step Action:,ContProcess
+
+Running process:
+ID:,0
+Time:,14,/,100
+
+Ready List (ID's):
+
+
+Blocked List (ID's):
+
+
+Other Processes:
+ID,State
+
+Interrupt List:
+proc ID, IOReq ID
+
+IOModule Pending Interrupts:
+time to issue, procID, IOReq ID
+
+
+=========,=========,=========,=========,
+
+Time Step:, 17
+Step Action:,ContProcess
+
+Running process:
+ID:,0
+Time:,15,/,100
+
+Ready List (ID's):
+
+
+Blocked List (ID's):
+
+
+Other Processes:
+ID,State
+
+Interrupt List:
+proc ID, IOReq ID
+
+IOModule Pending Interrupts:
+time to issue, procID, IOReq ID
+
+
+=========,=========,=========,=========,
+
+Time Step:, 18
+Step Action:,ContProcess
+
+Running process:
+ID:,0
+Time:,16,/,100
+
+Ready List (ID's):
+
+
+Blocked List (ID's):
+
+
+Other Processes:
+ID,State
+
+Interrupt List:
+proc ID, IOReq ID
+
+IOModule Pending Interrupts:
+time to issue, procID, IOReq ID
+
+
+=========,=========,=========,=========,
+
+Time Step:, 19
+Step Action:,ContProcess
+
+Running process:
+ID:,0
+Time:,17,/,100
+
+Ready List (ID's):
+
+
+Blocked List (ID's):
+
+
+Other Processes:
+ID,State
+
+Interrupt List:
+proc ID, IOReq ID
+
+IOModule Pending Interrupts:
+time to issue, procID, IOReq ID
+
+
+=========,=========,=========,=========,
+
+Time Step:, 20
+Step Action:,ContProcess
+
+Running process:
+ID:,0
+Time:,18,/,100
+
+Ready List (ID's):
+
+
+Blocked List (ID's):
+
+
+Other Processes:
+ID,State
+
+Interrupt List:
+proc ID, IOReq ID
+
+IOModule Pending Interrupts:
+time to issue, procID, IOReq ID
+
+
+=========,=========,=========,=========,
+
+Time Step:, 21
+Step Action:,ContProcess
+
+Running process:
+ID:,0
+Time:,19,/,100
+
+Ready List (ID's):
+
+
+Blocked List (ID's):
+
+
+Other Processes:
+ID,State
+
+Interrupt List:
+proc ID, IOReq ID
+
+IOModule Pending Interrupts:
+time to issue, procID, IOReq ID
+
+
+=========,=========,=========,=========,
+
+Time Step:, 22
+Step Action:,ContProcess
+
+Running process:
+ID:,0
+Time:,20,/,100
+
+Ready List (ID's):
+
+
+Blocked List (ID's):
+
+
+Other Processes:
+ID,State
+
+Interrupt List:
+proc ID, IOReq ID
+
+IOModule Pending Interrupts:
+time to issue, procID, IOReq ID
+
+
+=========,=========,=========,=========,
+
+Time Step:, 23
+Step Action:,ContProcess
+
+Running process:
+ID:,0
+Time:,21,/,100
+
+Ready List (ID's):
+
+
+Blocked List (ID's):
+
+
+Other Processes:
+ID,State
+
+Interrupt List:
+proc ID, IOReq ID
+
+IOModule Pending Interrupts:
+time to issue, procID, IOReq ID
+
+
+=========,=========,=========,=========,
+
+Time Step:, 24
+Step Action:,ContProcess
+
+Running process:
+ID:,0
+Time:,22,/,100
+
+Ready List (ID's):
+
+
+Blocked List (ID's):
+
+
+Other Processes:
+ID,State
+
+Interrupt List:
+proc ID, IOReq ID
+
+IOModule Pending Interrupts:
+time to issue, procID, IOReq ID
+
+
+=========,=========,=========,=========,
+
+Time Step:, 25
+Step Action:,ContProcess
+
+Running process:
+ID:,0
+Time:,23,/,100
+
+Ready List (ID's):
+
+
+Blocked List (ID's):
+
+
+Other Processes:
+ID,State
+
+Interrupt List:
+proc ID, IOReq ID
+
+IOModule Pending Interrupts:
+time to issue, procID, IOReq ID
+
+
+=========,=========,=========,=========,
+
+Time Step:, 26
+Step Action:,ContProcess
+
+Running process:
+ID:,0
+Time:,24,/,100
+
+Ready List (ID's):
+
+
+Blocked List (ID's):
+
+
+Other Processes:
+ID,State
+
+Interrupt List:
+proc ID, IOReq ID
+
+IOModule Pending Interrupts:
+time to issue, procID, IOReq ID
+
+
+=========,=========,=========,=========,
+
+Time Step:, 27
+Step Action:,ContProcess
+
+Running process:
+ID:,0
+Time:,25,/,100
+
+Ready List (ID's):
+
+
+Blocked List (ID's):
+
+
+Other Processes:
+ID,State
+
+Interrupt List:
+proc ID, IOReq ID
+
+IOModule Pending Interrupts:
+time to issue, procID, IOReq ID
+
+
+=========,=========,=========,=========,
+
+Time Step:, 28
+Step Action:,ContProcess
+
+Running process:
+ID:,0
+Time:,26,/,100
+
+Ready List (ID's):
+
+
+Blocked List (ID's):
+
+
+Other Processes:
+ID,State
+
+Interrupt List:
+proc ID, IOReq ID
+
+IOModule Pending Interrupts:
+time to issue, procID, IOReq ID
+
+
+=========,=========,=========,=========,
+
+Time Step:, 29
+Step Action:,ContProcess
+
+Running process:
+ID:,0
+Time:,27,/,100
+
+Ready List (ID's):
+
+
+Blocked List (ID's):
+
+
+Other Processes:
+ID,State
+
+Interrupt List:
+proc ID, IOReq ID
+
+IOModule Pending Interrupts:
+time to issue, procID, IOReq ID
+
+
+=========,=========,=========,=========,
+
+Time Step:, 30
+Step Action:,ContProcess
+
+Running process:
+ID:,0
+Time:,28,/,100
+
+Ready List (ID's):
+
+
+Blocked List (ID's):
+
+
+Other Processes:
+ID,State
+
+Interrupt List:
+proc ID, IOReq ID
+
+IOModule Pending Interrupts:
+time to issue, procID, IOReq ID
+
+
+=========,=========,=========,=========,
+
+Time Step:, 31
+Step Action:,ContProcess
+
+Running process:
+ID:,0
+Time:,29,/,100
+
+Ready List (ID's):
+
+
+Blocked List (ID's):
+
+
+Other Processes:
+ID,State
+
+Interrupt List:
+proc ID, IOReq ID
+
+IOModule Pending Interrupts:
+time to issue, procID, IOReq ID
+
+
+=========,=========,=========,=========,
+
+Time Step:, 32
+Step Action:,ContProcess
+
+Running process:
+ID:,0
+Time:,30,/,100
+
+Ready List (ID's):
+
+
+Blocked List (ID's):
+
+
+Other Processes:
+ID,State
+
+Interrupt List:
+proc ID, IOReq ID
+
+IOModule Pending Interrupts:
+time to issue, procID, IOReq ID
+
+
+=========,=========,=========,=========,
+
+Time Step:, 33
+Step Action:,ContProcess
+
+Running process:
+ID:,0
+Time:,31,/,100
+
+Ready List (ID's):
+
+
+Blocked List (ID's):
+
+
+Other Processes:
+ID,State
+
+Interrupt List:
+proc ID, IOReq ID
+
+IOModule Pending Interrupts:
+time to issue, procID, IOReq ID
+
+
+=========,=========,=========,=========,
+
+Time Step:, 34
+Step Action:,ContProcess
+
+Running process:
+ID:,0
+Time:,32,/,100
+
+Ready List (ID's):
+
+
+Blocked List (ID's):
+
+
+Other Processes:
+ID,State
+
+Interrupt List:
+proc ID, IOReq ID
+
+IOModule Pending Interrupts:
+time to issue, procID, IOReq ID
+
+
+=========,=========,=========,=========,
+
+Time Step:, 35
+Step Action:,ContProcess
+
+Running process:
+ID:,0
+Time:,33,/,100
+
+Ready List (ID's):
+
+
+Blocked List (ID's):
+
+
+Other Processes:
+ID,State
+
+Interrupt List:
+proc ID, IOReq ID
+
+IOModule Pending Interrupts:
+time to issue, procID, IOReq ID
+
+
+=========,=========,=========,=========,
+
+Time Step:, 36
+Step Action:,ContProcess
+
+Running process:
+ID:,0
+Time:,34,/,100
+
+Ready List (ID's):
+
+
+Blocked List (ID's):
+
+
+Other Processes:
+ID,State
+
+Interrupt List:
+proc ID, IOReq ID
+
+IOModule Pending Interrupts:
+time to issue, procID, IOReq ID
+
+
+=========,=========,=========,=========,
+
+Time Step:, 37
+Step Action:,ContProcess
+
+Running process:
+ID:,0
+Time:,35,/,100
+
+Ready List (ID's):
+
+
+Blocked List (ID's):
+
+
+Other Processes:
+ID,State
+
+Interrupt List:
+proc ID, IOReq ID
+
+IOModule Pending Interrupts:
+time to issue, procID, IOReq ID
+
+
+=========,=========,=========,=========,
+
+Time Step:, 38
+Step Action:,ContProcess
+
+Running process:
+ID:,0
+Time:,36,/,100
+
+Ready List (ID's):
+
+
+Blocked List (ID's):
+
+
+Other Processes:
+ID,State
+
+Interrupt List:
+proc ID, IOReq ID
+
+IOModule Pending Interrupts:
+time to issue, procID, IOReq ID
+
+
+=========,=========,=========,=========,
+
+Time Step:, 39
+Step Action:,ContProcess
+
+Running process:
+ID:,0
+Time:,37,/,100
+
+Ready List (ID's):
+
+
+Blocked List (ID's):
+
+
+Other Processes:
+ID,State
+
+Interrupt List:
+proc ID, IOReq ID
+
+IOModule Pending Interrupts:
+time to issue, procID, IOReq ID
+
+
+=========,=========,=========,=========,
+
+Time Step:, 40
+Step Action:,ContProcess
+
+Running process:
+ID:,0
+Time:,38,/,100
+
+Ready List (ID's):
+
+
+Blocked List (ID's):
+
+
+Other Processes:
+ID,State
+
+Interrupt List:
+proc ID, IOReq ID
+
+IOModule Pending Interrupts:
+time to issue, procID, IOReq ID
+
+
+=========,=========,=========,=========,
+
+Time Step:, 41
+Step Action:,ContProcess
+
+Running process:
+ID:,0
+Time:,39,/,100
+
+Ready List (ID's):
+
+
+Blocked List (ID's):
+
+
+Other Processes:
+ID,State
+
+Interrupt List:
+proc ID, IOReq ID
+
+IOModule Pending Interrupts:
+time to issue, procID, IOReq ID
+
+
+=========,=========,=========,=========,
+
+Time Step:, 42
+Step Action:,ContProcess
+
+Running process:
+ID:,0
+Time:,40,/,100
+
+Ready List (ID's):
+
+
+Blocked List (ID's):
+
+
+Other Processes:
+ID,State
+
+Interrupt List:
+proc ID, IOReq ID
+
+IOModule Pending Interrupts:
+time to issue, procID, IOReq ID
+
+
+=========,=========,=========,=========,
+
+Time Step:, 43
+Step Action:,ContProcess
+
+Running process:
+ID:,0
+Time:,41,/,100
+
+Ready List (ID's):
+
+
+Blocked List (ID's):
+
+
+Other Processes:
+ID,State
+
+Interrupt List:
+proc ID, IOReq ID
+
+IOModule Pending Interrupts:
+time to issue, procID, IOReq ID
+
+
+=========,=========,=========,=========,
+
+Time Step:, 44
+Step Action:,ContProcess
+
+Running process:
+ID:,0
+Time:,42,/,100
+
+Ready List (ID's):
+
+
+Blocked List (ID's):
+
+
+Other Processes:
+ID,State
+
+Interrupt List:
+proc ID, IOReq ID
+
+IOModule Pending Interrupts:
+time to issue, procID, IOReq ID
+
+
+=========,=========,=========,=========,
+
+Time Step:, 45
+Step Action:,ContProcess
+
+Running process:
+ID:,0
+Time:,43,/,100
+
+Ready List (ID's):
+
+
+Blocked List (ID's):
+
+
+Other Processes:
+ID,State
+
+Interrupt List:
+proc ID, IOReq ID
+
+IOModule Pending Interrupts:
+time to issue, procID, IOReq ID
+
+
+=========,=========,=========,=========,
+
+Time Step:, 46
+Step Action:,ContProcess
+
+Running process:
+ID:,0
+Time:,44,/,100
+
+Ready List (ID's):
+
+
+Blocked List (ID's):
+
+
+Other Processes:
+ID,State
+
+Interrupt List:
+proc ID, IOReq ID
+
+IOModule Pending Interrupts:
+time to issue, procID, IOReq ID
+
+
+=========,=========,=========,=========,
+
+Time Step:, 47
+Step Action:,ContProcess
+
+Running process:
+ID:,0
+Time:,45,/,100
+
+Ready List (ID's):
+
+
+Blocked List (ID's):
+
+
+Other Processes:
+ID,State
+
+Interrupt List:
+proc ID, IOReq ID
+
+IOModule Pending Interrupts:
+time to issue, procID, IOReq ID
+
+
+=========,=========,=========,=========,
+
+Time Step:, 48
+Step Action:,ContProcess
+
+Running process:
+ID:,0
+Time:,46,/,100
+
+Ready List (ID's):
+
+
+Blocked List (ID's):
+
+
+Other Processes:
+ID,State
+
+Interrupt List:
+proc ID, IOReq ID
+
+IOModule Pending Interrupts:
+time to issue, procID, IOReq ID
+
+
+=========,=========,=========,=========,
+
+Time Step:, 49
+Step Action:,ContProcess
+
+Running process:
+ID:,0
+Time:,47,/,100
+
+Ready List (ID's):
+
+
+Blocked List (ID's):
+
+
+Other Processes:
+ID,State
+
+Interrupt List:
+proc ID, IOReq ID
+
+IOModule Pending Interrupts:
+time to issue, procID, IOReq ID
+
+
+=========,=========,=========,=========,
+
+Time Step:, 50
+Step Action:,ContProcess
+
+Running process:
+ID:,0
+Time:,48,/,100
+
+Ready List (ID's):
+
+
+Blocked List (ID's):
+
+
+Other Processes:
+ID,State
+
+Interrupt List:
+proc ID, IOReq ID
+
+IOModule Pending Interrupts:
+time to issue, procID, IOReq ID
+
+
+=========,=========,=========,=========,
+
+Time Step:, 51
+Step Action:,ContProcess
+
+Running process:
+ID:,0
+Time:,49,/,100
+
+Ready List (ID's):
+
+
+Blocked List (ID's):
+
+
+Other Processes:
+ID,State
+
+Interrupt List:
+proc ID, IOReq ID
+
+IOModule Pending Interrupts:
+time to issue, procID, IOReq ID
+
+
+=========,=========,=========,=========,
+
+Time Step:, 52
+Step Action:,ContProcess
+
+Running process:
+ID:,0
+Time:,50,/,100
+
+Ready List (ID's):
+
+
+Blocked List (ID's):
+
+
+Other Processes:
+ID,State
+
+Interrupt List:
+proc ID, IOReq ID
+
+IOModule Pending Interrupts:
+time to issue, procID, IOReq ID
+
+
+=========,=========,=========,=========,
+
+Time Step:, 53
+Step Action:,ContProcess
+
+Running process:
+ID:,0
+Time:,51,/,100
+
+Ready List (ID's):
+
+
+Blocked List (ID's):
+
+
+Other Processes:
+ID,State
+
+Interrupt List:
+proc ID, IOReq ID
+
+IOModule Pending Interrupts:
+time to issue, procID, IOReq ID
+
+
+=========,=========,=========,=========,
+
+Time Step:, 54
+Step Action:,ContProcess
+
+Running process:
+ID:,0
+Time:,52,/,100
+
+Ready List (ID's):
+
+
+Blocked List (ID's):
+
+
+Other Processes:
+ID,State
+
+Interrupt List:
+proc ID, IOReq ID
+
+IOModule Pending Interrupts:
+time to issue, procID, IOReq ID
+
+
+=========,=========,=========,=========,
+
+Time Step:, 55
+Step Action:,ContProcess
+
+Running process:
+ID:,0
+Time:,53,/,100
+
+Ready List (ID's):
+
+
+Blocked List (ID's):
+
+
+Other Processes:
+ID,State
+
+Interrupt List:
+proc ID, IOReq ID
+
+IOModule Pending Interrupts:
+time to issue, procID, IOReq ID
+
+
+=========,=========,=========,=========,
+
+Time Step:, 56
+Step Action:,ContProcess
+
+Running process:
+ID:,0
+Time:,54,/,100
+
+Ready List (ID's):
+
+
+Blocked List (ID's):
+
+
+Other Processes:
+ID,State
+
+Interrupt List:
+proc ID, IOReq ID
+
+IOModule Pending Interrupts:
+time to issue, procID, IOReq ID
+
+
+=========,=========,=========,=========,
+
+Time Step:, 57
+Step Action:,ContProcess
+
+Running process:
+ID:,0
+Time:,55,/,100
+
+Ready List (ID's):
+
+
+Blocked List (ID's):
+
+
+Other Processes:
+ID,State
+
+Interrupt List:
+proc ID, IOReq ID
+
+IOModule Pending Interrupts:
+time to issue, procID, IOReq ID
+
+
+=========,=========,=========,=========,
+
+Time Step:, 58
+Step Action:,ContProcess
+
+Running process:
+ID:,0
+Time:,56,/,100
+
+Ready List (ID's):
+
+
+Blocked List (ID's):
+
+
+Other Processes:
+ID,State
+
+Interrupt List:
+proc ID, IOReq ID
+
+IOModule Pending Interrupts:
+time to issue, procID, IOReq ID
+
+
+=========,=========,=========,=========,
+
+Time Step:, 59
+Step Action:,ContProcess
+
+Running process:
+ID:,0
+Time:,57,/,100
+
+Ready List (ID's):
+
+
+Blocked List (ID's):
+
+
+Other Processes:
+ID,State
+
+Interrupt List:
+proc ID, IOReq ID
+
+IOModule Pending Interrupts:
+time to issue, procID, IOReq ID
+
+
+=========,=========,=========,=========,
+
+Time Step:, 60
+Step Action:,ContProcess
+
+Running process:
+ID:,0
+Time:,58,/,100
+
+Ready List (ID's):
+
+
+Blocked List (ID's):
+
+
+Other Processes:
+ID,State
+
+Interrupt List:
+proc ID, IOReq ID
+
+IOModule Pending Interrupts:
+time to issue, procID, IOReq ID
+
+
+=========,=========,=========,=========,
+
+Time Step:, 61
+Step Action:,ContProcess
+
+Running process:
+ID:,0
+Time:,59,/,100
+
+Ready List (ID's):
+
+
+Blocked List (ID's):
+
+
+Other Processes:
+ID,State
+
+Interrupt List:
+proc ID, IOReq ID
+
+IOModule Pending Interrupts:
+time to issue, procID, IOReq ID
+
+
+=========,=========,=========,=========,
+
+Time Step:, 62
+Step Action:,ContProcess
+
+Running process:
+ID:,0
+Time:,60,/,100
+
+Ready List (ID's):
+
+
+Blocked List (ID's):
+
+
+Other Processes:
+ID,State
+
+Interrupt List:
+proc ID, IOReq ID
+
+IOModule Pending Interrupts:
+time to issue, procID, IOReq ID
+
+
+=========,=========,=========,=========,
+
+Time Step:, 63
+Step Action:,ContProcess
+
+Running process:
+ID:,0
+Time:,61,/,100
+
+Ready List (ID's):
+
+
+Blocked List (ID's):
+
+
+Other Processes:
+ID,State
+
+Interrupt List:
+proc ID, IOReq ID
+
+IOModule Pending Interrupts:
+time to issue, procID, IOReq ID
+
+
+=========,=========,=========,=========,
+
+Time Step:, 64
+Step Action:,ContProcess
+
+Running process:
+ID:,0
+Time:,62,/,100
+
+Ready List (ID's):
+
+
+Blocked List (ID's):
+
+
+Other Processes:
+ID,State
+
+Interrupt List:
+proc ID, IOReq ID
+
+IOModule Pending Interrupts:
+time to issue, procID, IOReq ID
+
+
+=========,=========,=========,=========,
+
+Time Step:, 65
+Step Action:,ContProcess
+
+Running process:
+ID:,0
+Time:,63,/,100
+
+Ready List (ID's):
+
+
+Blocked List (ID's):
+
+
+Other Processes:
+ID,State
+
+Interrupt List:
+proc ID, IOReq ID
+
+IOModule Pending Interrupts:
+time to issue, procID, IOReq ID
+
+
+=========,=========,=========,=========,
+
+Time Step:, 66
+Step Action:,ContProcess
+
+Running process:
+ID:,0
+Time:,64,/,100
+
+Ready List (ID's):
+
+
+Blocked List (ID's):
+
+
+Other Processes:
+ID,State
+
+Interrupt List:
+proc ID, IOReq ID
+
+IOModule Pending Interrupts:
+time to issue, procID, IOReq ID
+
+
+=========,=========,=========,=========,
+
+Time Step:, 67
+Step Action:,ContProcess
+
+Running process:
+ID:,0
+Time:,65,/,100
+
+Ready List (ID's):
+
+
+Blocked List (ID's):
+
+
+Other Processes:
+ID,State
+
+Interrupt List:
+proc ID, IOReq ID
+
+IOModule Pending Interrupts:
+time to issue, procID, IOReq ID
+
+
+=========,=========,=========,=========,
+
+Time Step:, 68
+Step Action:,ContProcess
+
+Running process:
+ID:,0
+Time:,66,/,100
+
+Ready List (ID's):
+
+
+Blocked List (ID's):
+
+
+Other Processes:
+ID,State
+
+Interrupt List:
+proc ID, IOReq ID
+
+IOModule Pending Interrupts:
+time to issue, procID, IOReq ID
+
+
+=========,=========,=========,=========,
+
+Time Step:, 69
+Step Action:,ContProcess
+
+Running process:
+ID:,0
+Time:,67,/,100
+
+Ready List (ID's):
+
+
+Blocked List (ID's):
+
+
+Other Processes:
+ID,State
+
+Interrupt List:
+proc ID, IOReq ID
+
+IOModule Pending Interrupts:
+time to issue, procID, IOReq ID
+
+
+=========,=========,=========,=========,
+
+Time Step:, 70
+Step Action:,ContProcess
+
+Running process:
+ID:,0
+Time:,68,/,100
+
+Ready List (ID's):
+
+
+Blocked List (ID's):
+
+
+Other Processes:
+ID,State
+
+Interrupt List:
+proc ID, IOReq ID
+
+IOModule Pending Interrupts:
+time to issue, procID, IOReq ID
+
+
+=========,=========,=========,=========,
+
+Time Step:, 71
+Step Action:,ContProcess
+
+Running process:
+ID:,0
+Time:,69,/,100
+
+Ready List (ID's):
+
+
+Blocked List (ID's):
+
+
+Other Processes:
+ID,State
+
+Interrupt List:
+proc ID, IOReq ID
+
+IOModule Pending Interrupts:
+time to issue, procID, IOReq ID
+
+
+=========,=========,=========,=========,
+
+Time Step:, 72
+Step Action:,ContProcess
+
+Running process:
+ID:,0
+Time:,70,/,100
+
+Ready List (ID's):
+
+
+Blocked List (ID's):
+
+
+Other Processes:
+ID,State
+
+Interrupt List:
+proc ID, IOReq ID
+
+IOModule Pending Interrupts:
+time to issue, procID, IOReq ID
+
+
+=========,=========,=========,=========,
+
+Time Step:, 73
+Step Action:,ContProcess
+
+Running process:
+ID:,0
+Time:,71,/,100
+
+Ready List (ID's):
+
+
+Blocked List (ID's):
+
+
+Other Processes:
+ID,State
+
+Interrupt List:
+proc ID, IOReq ID
+
+IOModule Pending Interrupts:
+time to issue, procID, IOReq ID
+
+
+=========,=========,=========,=========,
+
+Time Step:, 74
+Step Action:,ContProcess
+
+Running process:
+ID:,0
+Time:,72,/,100
+
+Ready List (ID's):
+
+
+Blocked List (ID's):
+
+
+Other Processes:
+ID,State
+
+Interrupt List:
+proc ID, IOReq ID
+
+IOModule Pending Interrupts:
+time to issue, procID, IOReq ID
+
+
+=========,=========,=========,=========,
+
+Time Step:, 75
+Step Action:,ContProcess
+
+Running process:
+ID:,0
+Time:,73,/,100
+
+Ready List (ID's):
+
+
+Blocked List (ID's):
+
+
+Other Processes:
+ID,State
+
+Interrupt List:
+proc ID, IOReq ID
+
+IOModule Pending Interrupts:
+time to issue, procID, IOReq ID
+
+
+=========,=========,=========,=========,
+
+Time Step:, 76
+Step Action:,ContProcess
+
+Running process:
+ID:,0
+Time:,74,/,100
+
+Ready List (ID's):
+
+
+Blocked List (ID's):
+
+
+Other Processes:
+ID,State
+
+Interrupt List:
+proc ID, IOReq ID
+
+IOModule Pending Interrupts:
+time to issue, procID, IOReq ID
+
+
+=========,=========,=========,=========,
+
+Time Step:, 77
+Step Action:,ContProcess
+
+Running process:
+ID:,0
+Time:,75,/,100
+
+Ready List (ID's):
+
+
+Blocked List (ID's):
+
+
+Other Processes:
+ID,State
+
+Interrupt List:
+proc ID, IOReq ID
+
+IOModule Pending Interrupts:
+time to issue, procID, IOReq ID
+
+
+=========,=========,=========,=========,
+
+Time Step:, 78
+Step Action:,ContProcess
+
+Running process:
+ID:,0
+Time:,76,/,100
+
+Ready List (ID's):
+
+
+Blocked List (ID's):
+
+
+Other Processes:
+ID,State
+
+Interrupt List:
+proc ID, IOReq ID
+
+IOModule Pending Interrupts:
+time to issue, procID, IOReq ID
+
+
+=========,=========,=========,=========,
+
+Time Step:, 79
+Step Action:,ContProcess
+
+Running process:
+ID:,0
+Time:,77,/,100
+
+Ready List (ID's):
+
+
+Blocked List (ID's):
+
+
+Other Processes:
+ID,State
+
+Interrupt List:
+proc ID, IOReq ID
+
+IOModule Pending Interrupts:
+time to issue, procID, IOReq ID
+
+
+=========,=========,=========,=========,
+
+Time Step:, 80
+Step Action:,ContProcess
+
+Running process:
+ID:,0
+Time:,78,/,100
+
+Ready List (ID's):
+
+
+Blocked List (ID's):
+
+
+Other Processes:
+ID,State
+
+Interrupt List:
+proc ID, IOReq ID
+
+IOModule Pending Interrupts:
+time to issue, procID, IOReq ID
+
+
+=========,=========,=========,=========,
+
+Time Step:, 81
+Step Action:,ContProcess
+
+Running process:
+ID:,0
+Time:,79,/,100
+
+Ready List (ID's):
+
+
+Blocked List (ID's):
+
+
+Other Processes:
+ID,State
+
+Interrupt List:
+proc ID, IOReq ID
+
+IOModule Pending Interrupts:
+time to issue, procID, IOReq ID
+
+
+=========,=========,=========,=========,
+
+Time Step:, 82
+Step Action:,ContProcess
+
+Running process:
+ID:,0
+Time:,80,/,100
+
+Ready List (ID's):
+
+
+Blocked List (ID's):
+
+
+Other Processes:
+ID,State
+
+Interrupt List:
+proc ID, IOReq ID
+
+IOModule Pending Interrupts:
+time to issue, procID, IOReq ID
+
+
+=========,=========,=========,=========,
+
+Time Step:, 83
+Step Action:,ContProcess
+
+Running process:
+ID:,0
+Time:,81,/,100
+
+Ready List (ID's):
+
+
+Blocked List (ID's):
+
+
+Other Processes:
+ID,State
+
+Interrupt List:
+proc ID, IOReq ID
+
+IOModule Pending Interrupts:
+time to issue, procID, IOReq ID
+
+
+=========,=========,=========,=========,
+
+Time Step:, 84
+Step Action:,ContProcess
+
+Running process:
+ID:,0
+Time:,82,/,100
+
+Ready List (ID's):
+
+
+Blocked List (ID's):
+
+
+Other Processes:
+ID,State
+
+Interrupt List:
+proc ID, IOReq ID
+
+IOModule Pending Interrupts:
+time to issue, procID, IOReq ID
+
+
+=========,=========,=========,=========,
+
+Time Step:, 85
+Step Action:,ContProcess
+
+Running process:
+ID:,0
+Time:,83,/,100
+
+Ready List (ID's):
+
+
+Blocked List (ID's):
+
+
+Other Processes:
+ID,State
+
+Interrupt List:
+proc ID, IOReq ID
+
+IOModule Pending Interrupts:
+time to issue, procID, IOReq ID
+
+
+=========,=========,=========,=========,
+
+Time Step:, 86
+Step Action:,ContProcess
+
+Running process:
+ID:,0
+Time:,84,/,100
+
+Ready List (ID's):
+
+
+Blocked List (ID's):
+
+
+Other Processes:
+ID,State
+
+Interrupt List:
+proc ID, IOReq ID
+
+IOModule Pending Interrupts:
+time to issue, procID, IOReq ID
+
+
+=========,=========,=========,=========,
+
+Time Step:, 87
+Step Action:,ContProcess
+
+Running process:
+ID:,0
+Time:,85,/,100
+
+Ready List (ID's):
+
+
+Blocked List (ID's):
+
+
+Other Processes:
+ID,State
+
+Interrupt List:
+proc ID, IOReq ID
+
+IOModule Pending Interrupts:
+time to issue, procID, IOReq ID
+
+
+=========,=========,=========,=========,
+
+Time Step:, 88
+Step Action:,ContProcess
+
+Running process:
+ID:,0
+Time:,86,/,100
+
+Ready List (ID's):
+
+
+Blocked List (ID's):
+
+
+Other Processes:
+ID,State
+
+Interrupt List:
+proc ID, IOReq ID
+
+IOModule Pending Interrupts:
+time to issue, procID, IOReq ID
+
+
+=========,=========,=========,=========,
+
+Time Step:, 89
+Step Action:,ContProcess
+
+Running process:
+ID:,0
+Time:,87,/,100
+
+Ready List (ID's):
+
+
+Blocked List (ID's):
+
+
+Other Processes:
+ID,State
+
+Interrupt List:
+proc ID, IOReq ID
+
+IOModule Pending Interrupts:
+time to issue, procID, IOReq ID
+
+
+=========,=========,=========,=========,
+
+Time Step:, 90
+Step Action:,ContProcess
+
+Running process:
+ID:,0
+Time:,88,/,100
+
+Ready List (ID's):
+
+
+Blocked List (ID's):
+
+
+Other Processes:
+ID,State
+
+Interrupt List:
+proc ID, IOReq ID
+
+IOModule Pending Interrupts:
+time to issue, procID, IOReq ID
+
+
+=========,=========,=========,=========,
+
+Time Step:, 91
+Step Action:,ContProcess
+
+Running process:
+ID:,0
+Time:,89,/,100
+
+Ready List (ID's):
+
+
+Blocked List (ID's):
+
+
+Other Processes:
+ID,State
+
+Interrupt List:
+proc ID, IOReq ID
+
+IOModule Pending Interrupts:
+time to issue, procID, IOReq ID
+
+
+=========,=========,=========,=========,
+
+Time Step:, 92
+Step Action:,ContProcess
+
+Running process:
+ID:,0
+Time:,90,/,100
+
+Ready List (ID's):
+
+
+Blocked List (ID's):
+
+
+Other Processes:
+ID,State
+
+Interrupt List:
+proc ID, IOReq ID
+
+IOModule Pending Interrupts:
+time to issue, procID, IOReq ID
+
+
+=========,=========,=========,=========,
+
+Time Step:, 93
+Step Action:,ContProcess
+
+Running process:
+ID:,0
+Time:,91,/,100
+
+Ready List (ID's):
+
+
+Blocked List (ID's):
+
+
+Other Processes:
+ID,State
+
+Interrupt List:
+proc ID, IOReq ID
+
+IOModule Pending Interrupts:
+time to issue, procID, IOReq ID
+
+
+=========,=========,=========,=========,
+
+Time Step:, 94
+Step Action:,ContProcess
+
+Running process:
+ID:,0
+Time:,92,/,100
+
+Ready List (ID's):
+
+
+Blocked List (ID's):
+
+
+Other Processes:
+ID,State
+
+Interrupt List:
+proc ID, IOReq ID
+
+IOModule Pending Interrupts:
+time to issue, procID, IOReq ID
+
+
+=========,=========,=========,=========,
+
+Time Step:, 95
+Step Action:,ContProcess
+
+Running process:
+ID:,0
+Time:,93,/,100
+
+Ready List (ID's):
+
+
+Blocked List (ID's):
+
+
+Other Processes:
+ID,State
+
+Interrupt List:
+proc ID, IOReq ID
+
+IOModule Pending Interrupts:
+time to issue, procID, IOReq ID
+
+
+=========,=========,=========,=========,
+
+Time Step:, 96
+Step Action:,ContProcess
+
+Running process:
+ID:,0
+Time:,94,/,100
+
+Ready List (ID's):
+
+
+Blocked List (ID's):
+
+
+Other Processes:
+ID,State
+
+Interrupt List:
+proc ID, IOReq ID
+
+IOModule Pending Interrupts:
+time to issue, procID, IOReq ID
+
+
+=========,=========,=========,=========,
+
+Time Step:, 97
+Step Action:,ContProcess
+
+Running process:
+ID:,0
+Time:,95,/,100
+
+Ready List (ID's):
+
+
+Blocked List (ID's):
+
+
+Other Processes:
+ID,State
+
+Interrupt List:
+proc ID, IOReq ID
+
+IOModule Pending Interrupts:
+time to issue, procID, IOReq ID
+
+
+=========,=========,=========,=========,
+
+Time Step:, 98
+Step Action:,ContProcess
+
+Running process:
+ID:,0
+Time:,96,/,100
+
+Ready List (ID's):
+
+
+Blocked List (ID's):
+
+
+Other Processes:
+ID,State
+
+Interrupt List:
+proc ID, IOReq ID
+
+IOModule Pending Interrupts:
+time to issue, procID, IOReq ID
+
+
+=========,=========,=========,=========,
+
+Time Step:, 99
+Step Action:,ContProcess
+
+Running process:
+ID:,0
+Time:,97,/,100
+
+Ready List (ID's):
+
+
+Blocked List (ID's):
+
+
+Other Processes:
+ID,State
+
+Interrupt List:
+proc ID, IOReq ID
+
+IOModule Pending Interrupts:
+time to issue, procID, IOReq ID
+
+
+=========,=========,=========,=========,
+
+Time Step:, 100
+Step Action:,ContProcess
+
+Running process:
+ID:,0
+Time:,98,/,100
+
+Ready List (ID's):
+
+
+Blocked List (ID's):
+
+
+Other Processes:
+ID,State
+
+Interrupt List:
+proc ID, IOReq ID
+
+IOModule Pending Interrupts:
+time to issue, procID, IOReq ID
+
+
+=========,=========,=========,=========,
+
+Time Step:, 101
+Step Action:,ContProcess
+
+Running process:
+ID:,0
+Time:,99,/,100
+
+Ready List (ID's):
+
+
+Blocked List (ID's):
+
+
+Other Processes:
+ID,State
+
+Interrupt List:
+proc ID, IOReq ID
+
+IOModule Pending Interrupts:
+time to issue, procID, IOReq ID
+
+
+=========,=========,=========,=========,
+
+Time Step:, 102
+Step Action:,FinishProcess
+
+Running process:
+NONE
+
+Ready List (ID's):
+
+
+Blocked List (ID's):
+
+
+Other Processes:
+ID,State
+0, Done
+
+Interrupt List:
+proc ID, IOReq ID
+
+IOModule Pending Interrupts:
+time to issue, procID, IOReq ID
+
